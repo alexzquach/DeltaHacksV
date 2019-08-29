@@ -12,8 +12,8 @@ We are a group of four really good friends who met and attend the University of 
 ### What our app does
 Our application takes in a picture of the user's skin taken using their phone camera and uses that picture to conduct a smart inference on what skin condition the user might have based on our trained machine learning model that uses image classification.
 ### What our app was built with
-*Android studio
-*Java
-*Microsoft Azure Image recognition AI
-*SQLite Database (SQL 3.0)
-*Android
+..*Android studio
+..*Java
+..*Microsoft Azure Image recognition AI
+..*SQLite Database (SQL 3.0)
+..*Android
