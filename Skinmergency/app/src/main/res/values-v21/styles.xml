@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <!--this color will give the white bar on the top -->
+        <!--<item name="android:statusBarColor">@android:color/transparent</item>-->
+
+        <!--change to colorPrimaryDark so it match the mainactivity screen-->
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+</resources>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kqsoft.expensetutorken">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!--"@mipmap/ic_launcher"-->
+    <!--"@mipmap/ic_launcher_round"-->
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/skinmergency_logo_square"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/skinmergency_logo_square"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".ExpenseAddActivity"
+            android:label="@string/title_activity_expense_add"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.kqsoft.expensetutorken.MainActivity" />
+        </activity>
+        <activity
+            android:name=".CameraActivity"
+            android:label="@string/title_activity_camera1"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.kqsoft.expensetutorken.MainActivity" />
+        </activity>
+        <activity
+            android:name=".CameraDemoActivity"
+            android:label="@string/title_activity_camera_demo"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.kqsoft.expensetutorken.MainActivity" />
+        </activity>
+        <activity
+            android:name=".CatAddActivity"
+            android:label="@string/title_activity_cat_add"
+            android:parentActivityName=".CatActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.kqsoft.expensetutorken.CatActivity" />
+        </activity>
+        <activity
+            android:name=".ItemActivity"
+            android:label="@string/title_activity_item"
+            android:parentActivityName=".CatActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.kqsoft.expensetutorken.CatActivity" />
+        </activity>
+        <activity
+            android:name=".CatActivity"
+            android:label="@string/title_activity_cat"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.kqsoft.expensetutorken.MainActivity" />
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Information"
+            android:label="@string/title_activity_information"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.kqsoft.expensetutorken.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Treatment"
+            android:label="@string/title_activity_treatment"
+            android:parentActivityName=".Information"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.kqsoft.expensetutorken.Information" />
+        </activity>
+        <activity
+            android:name=".Description"
+            android:label="@string/title_activity_description"
+            android:parentActivityName=".Information"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.kqsoft.expensetutorken.Information" />
+        </activity>
+        <activity
+            android:name=".ImageComparison"
+            android:label="@string/title_activity_image_comparison"
+            android:parentActivityName=".Information"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.kqsoft.expensetutorken.Information" />
+        </activity>
+        <activity
+            android:name=".ConditionsListActivity"
+            android:label="@string/title_activity_conditions_list"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.kqsoft.expensetutorken.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

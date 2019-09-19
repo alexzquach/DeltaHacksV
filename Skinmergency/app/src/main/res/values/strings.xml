@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Skinmergency</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="title_activity_cat">Categories</string>
+    <string name="title_activity_item">Items</string>
+    <string name="title_activity_cat_add">CatAddActivity</string>
+    <string name="title_activity_camera_demo">CameraDemoActivity</string>
+    <string name="title_activity_camera1">Take a Photo</string>
+    <string name="title_activity_expense_add">ExpenseAddActivity</string>
+    <string name="title_activity_information">Information</string>
+    <string name="title_activity_treatment">Treatment</string>
+    <string name="title_activity_description">Description</string>
+    <string name="slogan"><u>Better help isn\'t just skin\-deep.</u>.</string>
+    <string name="disclaimer"><u>DISCLAIMER</u></string>
+    <string name="title_activity_image_comparison">Image Comparison</string>
+    <string name="title_activity_conditions_list">Conditions</string>
+</resources>

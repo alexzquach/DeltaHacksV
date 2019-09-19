@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b4f0b51-b087-49be-863f-6ae2fda7024a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/androidTest/java/com/kqsoft/expensetutorken/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/androidTest/java/com/kqsoft/expensetutorken/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/assets/Expenses.db" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/assets/Expenses.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/assets/Skinmergency.db" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/assets/Skinmergency.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/assets/labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/assets/labels.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/assets/melanoma_labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/assets/melanoma_labels.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/assets/melanoma_model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/assets/melanoma_model.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/assets/model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/assets/model.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/CameraActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/CameraActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/CameraDemoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/CameraDemoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/CatActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/CatActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/CatAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/CatAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/CatAddActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/CatAddActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/Cat_Tbl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/Cat_Tbl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/Classifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/ConditionsListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/ConditionsListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/DBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/DBHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/Description.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/Description.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/ExpenseAddActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/ExpenseAddActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/ImageComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/ImageComparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/Information.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/Information.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/ItemActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/ItemActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/ItemAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/ItemAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/Item_Tbl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/Item_Tbl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/MSCognitiveServicesClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/MSCognitiveServicesClassifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/RecognitionScoreView.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/RecognitionScoreView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/ResultsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/ResultsView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/SkinConditionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/SkinConditionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/SkinCondition_Tbl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/SkinCondition_Tbl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/SpinnerObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/SpinnerObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/SymptomAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/SymptomAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/Symptom_Tbl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/Symptom_Tbl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/Temp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/TensorFlowImageClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/TensorFlowImageClassifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/Treatment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/Treatment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/TreatmentAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/TreatmentAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/java/com/kqsoft/expensetutorken/Treatment_Tbl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/Treatment_Tbl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_about.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_about_dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_about_dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_accept.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_accept.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_accounts.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_accounts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_bell.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_bell.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_calendar.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_calendar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_call.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_call.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_clear.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_clear.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_collection.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_collection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_delete.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_delete.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_download.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_download.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_edit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_edit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_email.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_end_call.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_end_call.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_import_export.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_import_export.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_location.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_location.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_notification_event_note.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_notification_event_note.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_overflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_overflow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_person.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_person.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_refresh.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_refresh.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_save.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_save.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_share.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_share.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_storage.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_storage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_time.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_time.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_action_upload.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_action_upload.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-hdpi/ic_document.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-hdpi/ic_document.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_about.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_about_dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_about_dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_accept.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_accept.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_accounts.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_accounts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_bell.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_bell.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_calendar.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_calendar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_call.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_call.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_clear.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_clear.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_collection.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_collection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_delete.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_delete.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_download.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_download.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_edit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_edit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_email.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_end_call.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_end_call.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_import_export.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_import_export.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_location.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_location.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_notification_event_note.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_notification_event_note.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_overflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_overflow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_person.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_person.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_refresh.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_refresh.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_save.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_save.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_share.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_share.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_storage.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_storage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_time.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_time.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_action_upload.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_action_upload.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-mdpi/ic_document.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-mdpi/ic_document.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_about.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_about_dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_about_dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_accept.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_accept.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_accounts.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_accounts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_bell.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_bell.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_calendar.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_calendar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_call.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_call.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_clear.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_clear.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_collection.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_collection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_delete.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_delete.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_download.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_download.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_edit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_edit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_email.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_end_call.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_end_call.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_import_export.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_import_export.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_location.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_location.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_notification_event_note.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_notification_event_note.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_overflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_overflow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_person.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_person.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_refresh.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_refresh.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_save.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_save.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_share.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_share.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_storage.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_storage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_time.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_time.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_action_upload.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_action_upload.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xhdpi/ic_document.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xhdpi/ic_document.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_about.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_about_dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_about_dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_accept.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_accept.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_accounts.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_accounts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_bell.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_bell.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_calendar.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_calendar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_call.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_call.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_clear.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_clear.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_collection.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_collection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_delete.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_delete.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_download.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_download.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_edit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_edit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_email.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_end_call.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_end_call.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_import_export.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_import_export.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_notification_event_note.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_notification_event_note.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_overflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_overflow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_person.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_person.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_save.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_save.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_share.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_share.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_storage.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_storage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_time.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_time.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_action_upload.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_action_upload.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxhdpi/ic_document.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxhdpi/ic_document.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_about.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_about_dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_about_dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_accept.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_accept.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_accounts.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_accounts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_bell.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_bell.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_calendar.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_calendar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_call.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_call.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_clear.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_clear.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_collection.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_collection.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_delete.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_delete.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_download.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_download.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_edit.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_edit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_email.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_end_call.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_end_call.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_import_export.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_import_export.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_notification_event_note.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_notification_event_note.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_overflow.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_overflow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_person.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_person.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_save.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_save.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_share.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_share.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_storage.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_storage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_time.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_time.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_action_upload.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_action_upload.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable-xxxhdpi/ic_document.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable-xxxhdpi/ic_document.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/ic_menu_camera.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/ic_menu_camera.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/ic_menu_gallery.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/ic_menu_gallery.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/ic_menu_manage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/ic_menu_manage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/ic_menu_send.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/ic_menu_send.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/ic_menu_share.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/ic_menu_share.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/ic_menu_slideshow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/ic_menu_slideshow.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/sample_eczema.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/sample_eczema.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/sample_firstburn.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/sample_firstburn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/sample_melanoma.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/sample_melanoma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/sample_mole.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/sample_mole.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/sample_mosquitobite.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/sample_mosquitobite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/sample_notavailable.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/sample_notavailable.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/sample_pimple.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/sample_pimple.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/sample_poisonivy.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/sample_poisonivy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/sample_psoriasis.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/sample_psoriasis.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/sample_secondburn.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/sample_secondburn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/sample_sunburn.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/sample_sunburn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/side_nav_bar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/side_nav_bar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/skinmergency_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/skinmergency_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/skinmergency_logo_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/skinmergency_logo_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/drawable/skinmergency_logo_square.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/drawable/skinmergency_logo_square.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/activity_camera.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/activity_camera.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/activity_camera_demo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/activity_camera_demo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/activity_cat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/activity_cat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/activity_cat_add.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/activity_cat_add.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/activity_conditions_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/activity_conditions_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/activity_description.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/activity_description.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/activity_expense_add.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/activity_expense_add.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/activity_image_comparison.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/activity_image_comparison.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/activity_information.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/activity_information.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/activity_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/activity_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/activity_treatment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/activity_treatment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/app_bar_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/app_bar_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/content_camera1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/content_camera1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/content_camera_demo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/content_camera_demo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/content_cat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/content_cat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/content_cat_add.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/content_cat_add.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/content_conditions_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/content_conditions_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/content_description.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/content_description.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/content_expense_add.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/content_expense_add.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/content_image_comparison.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/content_image_comparison.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/content_information.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/content_information.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/content_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/content_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/content_treatment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/content_treatment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/nav_header_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/nav_header_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/simplelistitem2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/simplelistitem2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/simplelistitem2_checkbox.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/simplelistitem2_checkbox.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/layout/simplelistitem2_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/layout/simplelistitem2_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/menu/activity_main_drawer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/menu/catadd_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/menu/catadd_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/menu/catpopup_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/menu/catpopup_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/menu/itempopup_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/menu/itempopup_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/menu/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/menu/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-hdpi/ic_launcher1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-hdpi/ic_launcher1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-mdpi/ic_launcher1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-mdpi/ic_launcher1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-xhdpi/ic_launcher1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-xhdpi/ic_launcher1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-xxhdpi/ic_launcher1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-xxhdpi/ic_launcher1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-xxxhdpi/ic_launcher1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-xxxhdpi/ic_launcher1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/values-v21/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/app/src/test/java/com/kqsoft/expensetutorken/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/app/src/test/java/com/kqsoft/expensetutorken/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExpenseTutorKen/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Skinmergency/settings.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Item_Tbl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/Item_Tbl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Description.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/Description.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CameraDemoActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/CameraDemoActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-255" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../group_0469/Phase1/GameCentre" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../group_0469/Phase1/slidingtiles" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../group_0634/Phase2/GameCentre" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../quachal3/A2/slidingtiles" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="270" />
+    <option name="y" value="-40" />
+    <option name="width" value="3155" />
+    <option name="height" value="2095" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DeltaHacks2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeltaHacks2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeltaHacks2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeltaHacks2019" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeltaHacks2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeltaHacks2019" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="codeStyles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeltaHacks2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeltaHacks2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Skinmergency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeltaHacks2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeltaHacks2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Skinmergency" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeltaHacks2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeltaHacks2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Skinmergency" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeltaHacks2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeltaHacks2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Skinmergency" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeltaHacks2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeltaHacks2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Skinmergency" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeltaHacks2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeltaHacks2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Skinmergency" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Skinmergency" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="C:/androiddev/DeltaHacks2019/ExpenseTutorKen" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex Quach\AndroidStudioProjects\DeltaHacks2019\Skinmergency\app\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b4f0b51-b087-49be-863f-6ae2fda7024a" name="Default" comment="" />
+      <created>1567044559658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567044559658</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40356672" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Captures" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Skinmergency/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/Item_Tbl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/Description.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Skinmergency/app/src/main/java/Skinmergency/CameraDemoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
