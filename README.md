@@ -1,4 +1,4 @@
-# Skinmergency
+# Skinmergency (Best healthcare hack of DeltaHacks V
 ### Our team
 Alex Quach
 
